@@ -1,0 +1,4 @@
+the stack is growing bigger.
+Stack frame is 0x7fffda11f66c.
+Heap is in the malloc. The direction is going up.
+The two malloced memmories are contagious.
