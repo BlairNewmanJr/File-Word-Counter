@@ -1,0 +1,5 @@
+The obj file. COmpiled to show results.
+Some of the names i found were interp., abi tag, dynsym, dynstr.
+The first section contains the main file.
+The stack segment was no where nor was the heap. Had to look more.
+
